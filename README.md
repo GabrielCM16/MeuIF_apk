@@ -1,5 +1,5 @@
 # MeuIF_apk
 
-(versão 1)
+(versão funcional parcial)
 
-apk para quem quiser testar 
+ultilize seu numero de matricula para passar na Merenda!
