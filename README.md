@@ -1,6 +1,6 @@
 # MeuIF_apk
 
-(versão 0.5)
+(versão 0.6)
 
 * ultilize seu numero de matricula para passar na Merenda!
 * Cardápio nos dias da merenda
