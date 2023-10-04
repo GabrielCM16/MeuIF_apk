@@ -9,3 +9,5 @@
 * Gráficos SEPAE sobre o controle do PNAE
 * Gráficos SEPAE sobre o controle da chamada dos líderes
 * Em breve, aulas, eventos, atividades
+
+© copyright by Gabriel C. Moraes & Heloísa Raquel 2023.
