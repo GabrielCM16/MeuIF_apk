@@ -10,4 +10,4 @@
 * Gráficos SEPAE sobre o controle da chamada dos líderes
 * Em breve, aulas, eventos, atividades
 
-© copyright by Gabriel C. Moraes & Heloísa Raquel 2023.
+© 2023 Gabriel C. Moraes & Heloísa Raquel.
